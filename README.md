@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Java developer
 --------------
 
-I am a Java developer with a strong experience in the Spring framework. Throughout my journey, I have acquired comprehensive knowledge in various aspects of Spring, including Spring Security, Spring MVC, Spring Boot, and Spring Data JPA with Hibernate. I have a deep understanding of crucial concepts such as dependency injection and inversion of control, which form the backbone of the Spring framework. 
+I am a Java developer with extensive experience in the Spring framework, including Spring Security, Spring MVC, Spring Boot, and Spring Data JPA with Hibernate. I have a deep understanding of key concepts like dependency injection and inversion of control, which are fundamental to Spring. Additionally, I have knowledge of SQL for database operations and HTML, CSS for front-end development. I am also familiar with OAuth2 and JWT for authentication and authorization purposes.
 
 *   🌍  I'm based in Lviv, Ukraine
 *   ✉️  You can contact me at [n0rb3rt.work@gmail.com](mailto:n0rb3rt.work@gmail.com)
