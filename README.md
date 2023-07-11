@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Norbert</h1>
-<h3 align="center">A Java developer from Ukraine</h3>
+<h1>Hi 👋, I'm Norbert</h1>
+<h3>A Java developer from Ukraine</h3>
 
 I am a Java developer with extensive experience in the Spring framework, including Spring Security, Spring MVC, Spring Boot, and Spring Data JPA with Hibernate. I have a deep understanding of key concepts like dependency injection and inversion of control, which are fundamental to Spring. Additionally, I have knowledge of SQL for database operations and HTML, CSS for front-end development. I am also familiar with OAuth2 and JWT for authentication and authorization purposes.
 
